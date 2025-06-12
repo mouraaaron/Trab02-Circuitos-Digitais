@@ -1,2 +1,5 @@
-# Trab02-Circuitos-Digitais
-Digital Circuits Project #2
+FEDERAL UNIVERSITY OF PARANÁ // UNIVERSIDADE FEDERAL DO PARANÁ
+
+Digital Circuits Project #01. Digital Circuits, taught by professor Paulo Lisboa. The project consists in the creation of a car´s turn signal. As you press the button 1x (Pressing it and unpressing it) the car´s turn signal blinks 3x. If you hold the button, the signal blinks indefinitely (until it is unpressed again). If the button is pressed once and before the 3x blinking sequence ends the button is pressed again (holding it pressed), the signal blinks until the button is unpressed again. The plataform used for the creation of the circuit is Digital.jar To view the project, run the added files in Digital.jar and open the seta.dig or resposta.dig to visualize functionalities of the circuit. 
+
+Trabalho #01 de Circuitos Digitais. Circuitos Digitais ministrada pelo professor Paulo Lisboa. O trabalho consiste na criação do circuito de uma seta de carro. Ao pressionar o botão 1x (apertá-lo e desapertá-l), a seta do carro pisca 3x. Ao segurar o botão, a seta do pisca indefinidamente (até ser desapertado). Caso o botão for apertado 1x e antes da sequência de 3 piscadas terminar for acionado novamente (segurando-o), a seta pisca indefinidamente. A plataforma utilizada para realização do trabalho é o Digital.jar Para visualizar o projeto, abra os arquivos no Digital.jar e abra seta.dig ou resposta.dig para visualizar o funcionamento.
